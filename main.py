@@ -1,5 +1,6 @@
 from carbonara import carbonara
 from pesto_genovese import pesto_genovese
+from cacioepepe import cacioepepe
 from orecchietteConCimeDiRapa import orechiette
 
 # 🍝 Execute Recipe Steps
@@ -13,7 +14,13 @@ pesto_genovese.show_ingredients()
 pesto_genovese.check_ingredients()
 pesto_genovese.cook_pasta()
 
+print("\n--- Cacio e Pepe Recipe")
+cacioepepe.show_ingredients()
+cacioepepe.check_ingredients()
+cacioepepe.cook_pasta()
+
 print("\n--- Orecchiette con Cime di Rapa ---")
 orechiette.show_ingredients()
 orechiette.check_ingredients()
 orechiette.cook_pasta()
+
