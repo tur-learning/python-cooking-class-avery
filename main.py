@@ -1,5 +1,6 @@
 from carbonara import carbonara
 from pesto_genovese import pesto_genovese
+from ricotta_gnocchi import ricotta_gnocchi
 
 # 🍝 Execute Recipe Steps
 print("\n--- Carbonara Recipe ---")
