@@ -14,7 +14,7 @@ arrabiata = PastaRecipe(
         "chopped basil leaves": {"quantity": "6", "emoji": "🌿"},
         "freshly grated parmesan cheese": {"quantity": "1/2 cup", "emoji": "🧀"},
         "fresh chopped parsley": {"quantity": "1/3 cup", "emoji": "☘️"},
-    }, )
+    },
     recipe_steps=[
         {"action": "Cook pasta in a large pot of boiling water, according to package instructions, until tender", "time": 5, "temperature": 100},
         {"action": "Meanwhile, heat olive oil in a large skillet over medium heat. Add garlic and crushed red pepper; cook, stirring. ", "time": .5, "temperature": 50},
@@ -25,3 +25,4 @@ arrabiata = PastaRecipe(
     ],
     available_ingredients=["penne rigate", "crushed red pepper flakes", "canned whole peeled tomatoes", "garlic cloves", "fine salt", 
                            "extra virgin olive oil", "tomato paste", "chopped basil leaves", "freshly grated parmesan cheese", "fresh chopped parsley"]
+)
