@@ -7,7 +7,7 @@ amatriciana = PastaRecipe(
         "pasta": {"quantity": "500g", "emoji": "🍝"},
         "guanciale": {"quantity": "250g", "emoji": "🥓"},
         "parmesan cheese": {"quantity": "120g", "emoji": "🧀"},
-        "white wine": {"quantity": "60ml", "emoji": "🍷"},
+        "white wine": {"quantity": "120ml", "emoji": "🍷"},
         "salt": {"quantity": "to taste", "emoji": "🧂"},
         "pepper flakes": {"quantity": "5ml", "emoji": "🌶️"},
         "canned tomatoes": {"quantity": "500g", "emoji": "🍅"}
