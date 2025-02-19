@@ -1,5 +1,6 @@
 from carbonara import carbonara
 from pesto_genovese import pesto_genovese
+from norma import norma
 
 # 🍝 Execute Recipe Steps
 print("\n--- Carbonara Recipe ---")
@@ -11,3 +12,9 @@ print("\n--- Pesto Genovese Recipe ---")
 pesto_genovese.show_ingredients()
 pesto_genovese.check_ingredients()
 pesto_genovese.cook_pasta()
+
+
+print("\n--- Norma Recipe ---")
+norma.show_ingredients()
+norma.check_ingredients()
+norma.cook_pasta()
